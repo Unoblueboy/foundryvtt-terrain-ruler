@@ -2,16 +2,15 @@
 	"id": "terrain-ruler",
 	"title": "Terrain Ruler",
 	"description": "Adds a ruler tool that allows you to measure distances taking difficult terrain (provided by the terrain layer module) into account.",
-	"version": "1.7.6",
+	"version": "1.0.0",
 	"compatibility": {
 		"minimum": "10",
-		"verified": "10"
+		"verified": "11"
 	},
 	"authors": [
 		{
-			"name": "Manuel Vögele",
-			"email": "develop@manuel-voegele.de",
-			"discord": "Stäbchenfisch#5107"
+			"name": "Nathan Douglas",
+			"email": "Nathan20467@gmail.com"
 		}
 	],
 	"esmodules": [
@@ -50,15 +49,15 @@
 			{
 				"id": "enhanced-terrain-layer",
 				"type": "module",
-				"manifest": "https://github.com/ironmonk88/enhanced-terrain-layer/releases/latest/download/module.json"
+				"manifest": "https://www.dropbox.com/scl/fi/5rzbxxkkx1d8gjxnaz2vp/module.json?rlkey=zebt9h3shiqx5v9ubf8npxtm9&dl=1"
 			}
 		]
 	},
-	"url": "https://github.com/manuelVo/foundryvtt-terrain-ruler",
-	"download": "https://github.com/manuelVo/foundryvtt-terrain-ruler/archive/v1.7.6.zip",
-	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-terrain-ruler/master/module.json",
-	"readme": "https://github.com/manuelVo/foundryvtt-terrain-ruler/blob/master/README.md",
-	"changelog": "https://github.com/manuelVo/foundryvtt-terrain-ruler/blob/master/CHANGELOG.md",
-	"bugs": "https://github.com/manuelVo/foundryvtt-terrain-ruler/issues",
+	"url": "https://github.com/Unoblueboy/foundryvtt-terrain-ruler",
+	"download": "https://github.com/Unoblueboy/foundryvtt-terrain-ruler/archive/v1.0.0.zip",
+	"manifest": "https://raw.githubusercontent.com/Unoblueboy/foundryvtt-terrain-ruler/temp-release/module.json",
+	"readme": "https://github.com/Unoblueboy/foundryvtt-terrain-ruler/blob/temp-release/README.md",
+	"changelog": "https://github.com/Unoblueboy/foundryvtt-terrain-ruler/blob/temp-release/CHANGELOG.md",
+	"bugs": "https://github.com/Unoblueboy/foundryvtt-terrain-ruler/issues",
 	"allowBugReporter": true
 }
